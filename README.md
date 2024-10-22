@@ -17,6 +17,4 @@ Visit the [Foe Rechner official](https://foerechnerr.de) website for detailed in
 
 We welcome contributions to improve the **FOE Rechner**. If you have any suggestions, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
